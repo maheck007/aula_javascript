@@ -1,0 +1,11 @@
+var nome = "Marcio Heck";
+var idade = 29;
+var idade2 = 10;
+var frase = "Japão é o melhor time do mundo";
+//alert("Bem Vindo" + nome);
+//alert(idade + idade2);
+console.log(idade);
+console.log (idade2);
+console.log(nome);
+console.log(frase.toUpperCase("Japão", "Brasil"));
+alert(frase.replace("Japão", "Brasil"));
